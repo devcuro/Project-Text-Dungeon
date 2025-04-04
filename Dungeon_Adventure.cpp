@@ -77,7 +77,7 @@ int main() {
         if (hugWall == 2) {
             cout << "\nYou hug the wall... Nothing happens.\nWhat did you expect? It's a wall." << endl;
             cout << "A goblin appears... but notices your tender appreciation for the cave walls." << endl;
-            cout << "He nods slowly, gives you a thumbs up, and walks away peacefully.\nYou may continue." << endl;
+            cout << "He nods slowly, gives you a thumbs up and a key, and walks away peacefully.\nYou may continue." << endl;
         } else {
             cout << "\nSuddenly, a goblin appears!" << endl;
             cout << "Do you:\n1. Fight the goblin\n2. Run away" << endl;
